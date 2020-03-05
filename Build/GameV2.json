@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Mousy",
+"productVersion": "0.1",
+"dataUrl": "GameV2.data.unityweb",
+"wasmCodeUrl": "GameV2.wasm.code.unityweb",
+"wasmFrameworkUrl": "GameV2.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.3f1"
+}
